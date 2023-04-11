@@ -1,0 +1,73 @@
+h3{
+color:lightgoldenrodyellow;
+}
+
+.verse{
+color:white;
+}
+
+.chorus{
+color:white;
+}
+
+.prechorus{
+color:white;
+}
+
+.bridge{
+color:white;
+}
+
+h1{
+color:lightpink;
+}
+
+h2{
+color:lightgreen;
+}
+
+.outro{
+color:white;
+}
+
+.column{
+    float:center;
+    width: 50.33%;
+    padding: 20px 0px;
+    margin-left:10px;
+    margin-right:10px;
+    margin:auto;
+}
+
+.row:after{
+    content:"";
+    display:table;
+    clear:both;
+}
+
+.stanza1{
+    float:left;
+    padding-left:250px;
+    padding-right:100px;
+    padding-top:3px;
+}
+
+.stanza2{
+    float:center;
+    padding-top:3px;
+}
+
+.Title{
+    float:center;
+    padding-left:532px;
+}
+
+.producer{
+    float:center;
+    padding-left:499px;
+}
+
+.sound{
+    float:center;
+    padding-left:519px;
+}
